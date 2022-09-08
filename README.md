@@ -53,7 +53,7 @@ Start the server
 ```
 # Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/79671325/189241283-9f7914ca-df05-4c9c-a49a-08d54f407612.png)
+![App Screenshot](https://user-images.githubusercontent.com/79671325/189242218-d0a1aa1b-cd95-4c4c-be19-f687e2dd2afb.png)
 
 
 
